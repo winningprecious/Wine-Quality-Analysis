@@ -11,5 +11,13 @@ Key Insights
 - Strong positive relationship between alcohol content and overall wine quality  
 - Volatile acidity shows a negative correlation with taste ratings  
 - Quality scores are normally distributed, with most wines rated average (5–6)  
-- Visualizations highlighted key drivers that separate high-quality from low-quality wines  
+- Visualizations highlighted key drivers that separate high-quality from low-quality wines
+
+Project Preview
+Dasdboard: Dashboard.png
+(Overall Wine Quality Dashboard showing key metrics)
+Correlation Matrix: Correlation matrix.png
+(Correlation between wine features and quality rating)
+Excel Pivot: pivot.png
+(Excel pivot analysis)
 
